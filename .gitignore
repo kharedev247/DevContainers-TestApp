@@ -1,0 +1,10 @@
+bin/
+obj/
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+frontend-app/node_modules
